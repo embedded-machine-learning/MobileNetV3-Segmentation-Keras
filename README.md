@@ -1,6 +1,6 @@
 # MobileNetV3-Segmentation-Keras
 
-This repository implements the semantic segmentation version of the MobileNetV3 architecture ([source](https://arxiv.org/abs/1905.02244)).
+This repository implements the semantic segmentation version of the MobileNetV3 architecture ([source](https://arxiv.org/abs/1905.02244)), which is inspired by the DeeplabV3 architecture.
 
 The model is implemented using Keras and TensorFlow 2.x. The MobileNetV3 backbone is based on the official model from the [keras_applications package](https://keras.io/api/applications/).
 
